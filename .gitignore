@@ -1,0 +1,9 @@
+# Build output
+*.exe
+bin/
+
+# Runtime data (config.json may hold auth data, download_history.json)
+data/
+
+# Downloaded content
+Downloads/
